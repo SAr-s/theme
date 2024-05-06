@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.not-found {
+  background-color: black;
+  background-size: cover;
+  height: 87vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found1 {
+  background-color: blue;
+  background-size: cover;
+  height: 87vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-image {
+  height: 200px;
+  width: 200px;
+}
+.color1 {
+  color: white;
+}

@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.light-navbar {
+  background-color: rgb(250, 232, 232);
+  background-size: cover;
+  box-shadow: 0 4px 6px -2px rgba(0, 0, 0, 0.1),
+    0 -4px 6px -2px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.dark-navbar {
+  background-color: #333333;
+  background-size: cover;
+  box-shadow: 0 4px 6px -2px rgba(0, 0, 0, 0.1),
+    0 -4px 6px -2px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.navbar-item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.theme-image {
+  height: 40px;
+  width: 40px;
+}
+.theme-button-container {
+  margin-left: 200px;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+}
+.button {
+  background-color: transparent;
+  border: 0px;
+}
+.list-item-dark {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin-right: 15px;
+}
+.list-item-light {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-right: 15px;
+}

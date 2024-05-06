@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.dark {
+  background-color: black;
+  background-size: cover;
+  height: 86vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.light {
+  background-color: white;
+  background-size: cover;
+  height: 86vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-image {
+  height: 200px;
+  width: 200px;
+}
+.h-dark {
+  color: black;
+}
+.h-light {
+  color: white;
+}
